@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- cores do projeto -->
+    <color name="fundoPrincipal">#FFFFFF</color>
+    <color name="destaques">#006341</color>
+    <color name="btnLinks">#00A859</color>
+    <color name="textSec">#4D4D4D</color>
+    <color name="bords">#B3B3B3</color>
+
+
+
+    <!--Tela 1 - String do Projeto -->
+    <string name="appT1Titulo">TELA 1</string>
+    <string name="appT1Resultado">Resultado</string>
+    <string name="appT1BtnSet">Calculadora IMC</string>
+    <string name="appT1BtnReset">Voltar</string>
+    <!--Tela 2 - String do Projeto -->
+
+    <string name="appT2Titulo">TELA 2</string>
+    <string name="appT2Resultado">Resultado</string>
+    <string name="appT2BtnCalcular">Calcular IMC</string>
+    <string name="appT2BtnClear">Limpar</string>
+    <string name="appT2BtnClose">Voltar</string>
+    <string name="appHint1">Digite seu peso:</string>
+    <string name="appHint2">Digite sua altura:</string>
+
+    <!--Tela 3 - String do Projeto -->
+
+
+
+
+    <string name="appT3Titulo">TELA 3</string>
+    <string name="appT3Resultado">Resultado</string>
+    <string name="appT3BtnSet">Proxima</string>
+    <string name="appT3BtnClear">Voltar</string>
+</resources>
